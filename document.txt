@@ -1,0 +1,2 @@
+run: npx webpack
+run config: npx webpack --config webpack.config.js
