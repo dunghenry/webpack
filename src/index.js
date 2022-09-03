@@ -3,4 +3,5 @@ const moment = require('moment');
 const {sum} = require('./sum'); 
 console.log(1);
 console.log(sum(1, 2));
+console.log(sum(3, 10));
 console.log(moment().format('LT'))
