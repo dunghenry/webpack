@@ -8,3 +8,7 @@ console.log(sum(1, 2));
 console.log(sum(3, 10));
 console.log(moment().format('LT'))
 console.log(_.size([1, 2, 3]));
+
+
+const PI = 3.14;
+console.log(`PI is ${PI}`);
